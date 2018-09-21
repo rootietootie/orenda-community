@@ -3,7 +3,7 @@ Introduction
 
 This is an open source version of the fimware, Android App and iOS App software for the Orenda coffee maker, produced by the Auroma Brewing Company (ABC)
 
-Have fun. Have coffee.
+Have fun. Have coffee.  ###this is NOT the readme. rather, merge with TODO
 
 Why, haven't ABC produced their own?
 ------------------------------------
@@ -12,10 +12,6 @@ Their firmware appears buggy, as does the iOS App and crashes on tablets. The An
 
 The intent is to be open about we're doing.  The result may not be for everyone, and the way the apps work will likely be very different to the ABC version, but we think this is going to be powerful, useful and fun.
 
-How can I use this?
--------------------
-
-You can't, not yet. This is early development and we have a long road.  Think months, not weeks. 
 
 References
 ----------
@@ -28,11 +24,9 @@ https://docs.google.com/document/d/1Ye3PjEkkDaWWTbqxILuNRVPRJwL5_8FpXfS1fb5Y1Qs/
 Sofware/Hardware internals and prelimary design:
 https://docs.google.com/document/d/1KW6BgGmPUzZXpz3N3v8aKIpFevz7bTDWde8sHEJ1ARI/edit?usp=sharing
 
-Orenda Offical Forums:
+Orenda Offical Forums:  <== NEVER_HOSTED/NO_VALID_URL
 https://community.orendacoffee.com/
 
-Community Facebook Group (much of the discussion is here): 
-https://www.facebook.com/groups/1650329561702377/
 
 Particle (The hardware, firmware and cloud that this is based upon):
 https://www.particle.io/
@@ -53,11 +47,11 @@ https://patents.google.com/patent/US20180055289A1/
 I want to help
 --------------
 
-Look at the TODO list:
+Look at the TODO list
 
-https://raw.githubusercontent.com/pnaulls/orenda-community/master/TODO
+Get in touch with me.  Nico Paul @ support@guardog.net DO NOT CONTACT OLD PROJECT LEADER, VERY CRANKY MAN GAVE UP 4 MONTHS AGO (written sept 20th 2018, this git is up to date and will continue to recieve weekly updates.)
 
-Get in touch with me.  Peter Naulls <peter@chocky.org>
+this week i have officially recieved the release order which releases the P1 MODULE WITH OUR CONNECTION INFO! now with that being allowed to officially be claimed we can start withour replacement photon board. (need input screen ideas)
 
 
 
