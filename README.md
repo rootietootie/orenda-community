@@ -49,9 +49,10 @@ I want to help
 
 Look at the TODO list
 
-Get in touch with me.  Nico Paul @ support@guardog.net DO NOT CONTACT OLD PROJECT LEADER, VERY CRANKY MAN GAVE UP 4 MONTHS AGO (written sept 20th 2018, this git is up to date and will continue to recieve weekly updates.)
+Get in touch with me.  Nico Paul @ support@guardog.net (Pnaulls is more attentive than previously suspected, although still most likely over this project and cpmpany like most of us) (written sept 20th 2018, this git is up to date and will continue to recieve weekly updates.)
 
 this week i have officially recieved the release order which releases the P1 MODULE WITH OUR CONNECTION INFO! now with that being allowed to officially be claimed we can start withour replacement photon board. (need input screen ideas)
 
+Chose Neopixel Jewel 7 rgbw for the two needed i/o lights! learning a lot about basic and intermediate soldering best practice! Jewels are hard to solder but attainable after a practice session. in the middle of reloactaing what has become a small electronics laboratory to a permanent dog free space, i figured id give you this rather than a Donna-ism (havent heard back yet from management haha!)
 
 
